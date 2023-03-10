@@ -1,4 +1,4 @@
-# Convert-MP4-to-GIF-Using-PHP
+# Convert MP4 to GIF Using PHP
 
 This PHP program converts MP4 to GIF using PHP, [Composer PHP SDK](https://github.com/shotstack/shotstack-sdk-php), and Shotstack API. See this [tutorial](link of the article) to learn how it works.
 
@@ -47,7 +47,7 @@ Render Successfully Queued >> Now check the progress of your render by running: 
 
 Now, go to the Shotstack's Dashboard and move on to the Renders Tab, where you will see the following output:
 
-![Shotstack Dashboard](./Images/RenderDashboard.PNG)
+![Shotstack Dashboard](./images/RenderDashboard.PNG)
 
 Next, you just have to click on the **Link**, from where you will be able to see the following generated gif.
 
